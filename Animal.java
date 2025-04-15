@@ -9,6 +9,7 @@ class Animal {
 class Dog extends Animal {
     void bark() {
         System.out.println("The dog barks.");
+        System.out.println("this is master branch");
     }
 }
 
